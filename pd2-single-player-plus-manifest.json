@@ -2,16 +2,16 @@
   {
     "filename": "BH.dll",
     "url": "https://github.com/Lukaszpg/PD2-Single-Player-Plus-mod/releases/latest/download/BH.dll",
-    "hash": "ddfdfb4ef03dcb748ff1e6f3ffb7a7790115cc63fab18fdd33028fe72ef6c11c"
+    "hash": "eb60c9883080ffea3f0c71f0e1d63b2f17953307e737c212080c657acf67b452"
   },
   {
     "filename": "pd2data.mpq",
     "url": "https://github.com/Lukaszpg/PD2-Single-Player-Plus-mod/releases/latest/download/pd2data.mpq",
-    "hash": "89f3577cfeb9e20f7180e1271018e0c0f6551a98b28dea1831603e9109ce90a2"
+    "hash": "f15bc35e7bab6e1fff523aa31a17721faada8ea9da2443c566e1d35287a647b9"
   },
   {
     "filename": "ProjectDiablo.dll",
     "url": "https://github.com/Lukaszpg/PD2-Single-Player-Plus-mod/releases/latest/download/ProjectDiablo.dll",
-    "hash": "d304068e866b6e3cc7a0610d72e5850c034d80aaa992f5fa1f029a84fba2fbb8"
+    "hash": "579987ed77aaafc52b096866da3b1c02f22e52e2e950331354fd0960856d56d5"
   }
 ]
